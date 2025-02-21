@@ -15,7 +15,7 @@ MENTOR NAME: NEELA SONTOSH
 
 DESCRIPTION:
 Overview
-This is a Verilog implementation of a 8-bit Arithmetic Logic Unit (ALU). The ALU performs various arithmetic and logical operations on two 32-bit input operands.
+This is a Verilog implementation of a 8-bit Arithmetic Logic Unit (ALU). The ALU performs various arithmetic and logical operations on 8-bit input operands.
 
 Features
 - 8-bit input operands
