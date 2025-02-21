@@ -58,3 +58,8 @@ This repository contains Vivado projects for various digital systems, including 
 - Xilinx Vivado 2022.2
 - FPGA design and implementation
 - Testbenches for verification
+
+
+#OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/1d3ed5a7-7708-4e27-a865-bdf9dfcc69f9)
