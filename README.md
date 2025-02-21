@@ -62,4 +62,7 @@ This repository contains Vivado projects for various digital systems, including 
 
 #OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/fcb2d328-b58e-4fe4-a8f9-58bf33fffa1e)
+
 ![Image](https://github.com/user-attachments/assets/1d3ed5a7-7708-4e27-a865-bdf9dfcc69f9)
+
